@@ -1,0 +1,12 @@
+.circle {
+    border: 10px solid lightblue;
+    border-radius: 200px;
+    height: 400px;
+    width: 400px;
+    display: table;
+    margin: 20px auto;
+}
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
+}
